@@ -1,0 +1,4 @@
+to activate the env please use :
+ conda activate "C:\Users\Aishwarya cr\Desktop\Taste perception\venv"
+ To install the requirements :
+  pip install -r requirements.txt
